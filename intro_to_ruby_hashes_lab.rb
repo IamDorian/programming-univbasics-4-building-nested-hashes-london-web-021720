@@ -16,7 +16,7 @@ def monopoly_with_third_tier
         :key4 => ""
       },
       :rent_in_dollars => {
-        :one_piece_owned => {:fee => 25},
+        :one_piece_owned => 25,
         :two_piece_owned => "",
         :three_piece_owned => "",
         :four_piece_owned => ""
